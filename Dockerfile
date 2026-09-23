@@ -1,4 +1,4 @@
-FROM node:18
+FROM node:doesnotexist999
 
 WORKDIR /app
 
